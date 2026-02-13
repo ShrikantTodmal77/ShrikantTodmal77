@@ -3,12 +3,14 @@
 # Hi 👋 I'm Shrikant Todmal
 
 💻 Computer Science Student  
-
 ⚡ Interested in Coding & AI  
-
 🚀 Currently learning new technologies  
 
-<br><br>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2&section=header"/>
+
+<br>
 
 ## 🔧 I code with
 
@@ -30,8 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
 </p>
 
-<br><br>
+<br>
 
-⭐ *Building cool things with code*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2&section=footer"/>
+
+<br>
+
+⭐ Building cool things with code
 
 </div>
